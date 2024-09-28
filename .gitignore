@@ -1,0 +1,12 @@
+kicad/libs/TS-1187A-C-D-B.stp
+kicad/libs/USB4105-GF-A/
+
+
+*-backups
+fp-info-cache
+*~
+.DS_Store
+*.lck
+\#auto_saved_files\#
+_autosave-*
+.idea/
